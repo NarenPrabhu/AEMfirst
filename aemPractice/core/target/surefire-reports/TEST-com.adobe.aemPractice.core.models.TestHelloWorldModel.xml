@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.adobe.aemPractice.core.models.TestHelloWorldModel" time="0.27" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="com.adobe.aemPractice.core.models.TestHelloWorldModel" time="0.255" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\narprabh\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8636395105106618296.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\narprabh\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5151288519253733300.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\CapgeminiScripts\Support Tools\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\narprabh\Documents\apache-maven-3.5.2\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\CapgeminiScripts\Support Tools\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\narprabh\AppData\Local\Programs\Git\cmd;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -60,5 +60,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testGetMessage" classname="com.adobe.aemPractice.core.models.TestHelloWorldModel" time="0.27"/>
+  <testcase name="testGetMessage" classname="com.adobe.aemPractice.core.models.TestHelloWorldModel" time="0.255"/>
 </testsuite>
