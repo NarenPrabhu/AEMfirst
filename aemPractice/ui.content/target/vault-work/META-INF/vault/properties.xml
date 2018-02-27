@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aemPractice - UI content</comment>
+<entry key="createdBy">narprabh</entry>
+<entry key="name">aemPractice.ui.content</entry>
+<entry key="created">2018-02-27T10:39:20.939+0530</entry>
+<entry key="groupId">com.adobe</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aemPractice Content Package</entry>
+<entry key="description">UI content package for aemPractice</entry>
+<entry key="artifactId">aemPractice.ui.content</entry>
+<entry key="path">/etc/packages/aemPractice Content Package/aemPractice.ui.content.zip</entry>
+</properties>
