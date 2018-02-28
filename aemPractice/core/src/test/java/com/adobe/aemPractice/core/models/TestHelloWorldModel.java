@@ -54,7 +54,7 @@ public class TestHelloWorldModel {
         // some very basic junit tests
         String msg = hello.getMessage();
         assertNotNull(msg);
-        assertTrue(msg.length() > 0);
+        assertTrue(msg.length() < 0);
     }
 
 }
