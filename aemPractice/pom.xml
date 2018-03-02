@@ -52,6 +52,7 @@ Eureka!
                     <scmCommentPrefix>[maven-scm] :</scmCommentPrefix>
                     <preparationGoals>clean install</preparationGoals>
                     <goals>install</goals>
+	
                     <releaseProfiles>release</releaseProfiles>
                 </configuration>
             </plugin>
@@ -171,7 +172,8 @@ Eureka!
                         </execution>
                     </executions>
                     <configuration>
-                               <outputDirectory>${project.build.directory}/classes</outputDirectory>
+                    
+                               <outputDirectory>C:/Users/narprabh/Documents/AEMProjectJars/classes</outputDirectory>
                     </configuration>
                     <dependencies>
                         <dependency>
