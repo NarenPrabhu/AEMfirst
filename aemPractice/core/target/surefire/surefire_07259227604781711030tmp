@@ -1,0 +1,10 @@
+#surefire_0
+#Mon Mar 05 14:42:00 IST 2018
+user.dir=C\:\\Users\\narprabh\\Documents\\AemProject\\aemPractice\\core
+crx.user=admin
+crx.port=4502
+localRepository=C\:\\Users\\narprabh\\.m2\\repository
+vault.timeout=30
+basedir=C\:\\Users\\narprabh\\Documents\\AemProject\\aemPractice\\core
+crx.password=admin
+crx.host=localhost
