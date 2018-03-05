@@ -20,7 +20,7 @@ Eureka!
     <groupId>com.adobe</groupId>
     <artifactId>aemPractice</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
     <description>aemPractice</description>
     
     <modules>
@@ -181,6 +181,18 @@ Eureka!
                             <artifactId>slf4j-simple</artifactId>
                             <version>1.5.11</version>
                         </dependency>
+	<dependency>
+		<groupId>org.apache.sling</groupId>
+		<artifactId>org.apache.sling.models.api</artifactId>
+	</dependency>
+	<dependency>
+		<groupId>org.apache.sling</groupId>
+		<artifactId>org.apache.sling.models.impl</artifactId>
+	</dependency>
+	<dependency>
+		<groupId>javax.inject</groupId>
+		<artifactId>javax.inject</artifactId>
+	</dependency>
                     </dependencies>
                 </plugin>
                 <!-- Maven Installer Plugin -->
