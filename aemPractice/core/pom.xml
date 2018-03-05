@@ -20,7 +20,7 @@ Hi there test test
     <parent>
         <groupId>com.adobe</groupId>
         <artifactId>aemPractice</artifactId>
-        <version>0.0.3-SNAPSHOT</version>
+        <version>0.0.4-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>aemPractice.core</artifactId>
