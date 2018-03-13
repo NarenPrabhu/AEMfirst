@@ -1,21 +1,21 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1520250668486
+Bnd-LastModified: 1520945876213
 Build-Jdk: 1.8.0_121
 Built-By: narprabh
 Bundle-Description: Core bundle for aemPractice
 Bundle-ManifestVersion: 2
 Bundle-Name: aemPractice - Core
 Bundle-SymbolicName: com.adobe.aemPractice.core
-Bundle-Version: 0.0.8.SNAPSHOT
+Bundle-Version: 0.0.10.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
 Export-Package: com.adobe.aemPractice.core.filters;uses:="javax.servlet"
- ;version="0.0.8",com.adobe.aemPractice.core.listeners;uses:="org.osgi.s
- ervice.event";version="0.0.8",com.adobe.aemPractice.core.models;uses:="
- javax.annotation,javax.inject,org.apache.sling.api.resource,org.apache.
- sling.models.annotations";version="0.0.8",com.adobe.aemPractice.core;ve
- rsion="1.0",com.adobe.aemPractice.core.schedulers;version="0.0.8",com.a
- dobe.aemPractice.core.servlets;uses:="javax.servlet,org.apache.sling.ap
- i,org.apache.sling.api.servlets";version="0.0.8"
+ ;version="0.0.10",com.adobe.aemPractice.core.listeners;uses:="org.osgi.
+ service.event";version="0.0.10",com.adobe.aemPractice.core.models;uses:
+ ="javax.annotation,javax.inject,org.apache.sling.api.resource,org.apach
+ e.sling.models.annotations";version="0.0.10",com.adobe.aemPractice.core
+ ;version="1.0",com.adobe.aemPractice.core.schedulers;version="0.0.10",c
+ om.adobe.aemPractice.core.servlets;uses:="javax.servlet,org.apache.slin
+ g.api,org.apache.sling.api.servlets";version="0.0.10"
 Import-Package: javax.inject;version="0.0.0",javax.annotation,javax.serv
  let,org.apache.sling.api;version="[2.3,3)",org.apache.sling.api.request
  ;version="[2.4,3)",org.apache.sling.api.resource;version="[2.5,3)",org.

@@ -4,9 +4,9 @@
 <comment>aemPractice - UI content</comment>
 <entry key="createdBy">narprabh</entry>
 <entry key="name">aemPractice.ui.content</entry>
-<entry key="created">2018-03-05T17:21:26.428+0530</entry>
+<entry key="created">2018-03-13T18:28:12.481+0530</entry>
 <entry key="groupId">com.adobe</entry>
-<entry key="version">0.0.8-SNAPSHOT</entry>
+<entry key="version">0.0.10-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>
 <entry key="group">aemPractice Content Package</entry>
 <entry key="description">UI content package for aemPractice</entry>

@@ -1,5 +1,5 @@
 #surefire
-#Mon Mar 05 17:20:59 IST 2018
+#Tue Mar 13 18:27:50 IST 2018
 tc.0=com.adobe.aemPractice.core.models.TestHelloWorldModel
 classPathUrl.0=C\:\\Users\\narprabh\\Documents\\AemProject\\aemPractice\\core\\target\\test-classes
 classPathUrl.1=C\:\\Users\\narprabh\\Documents\\AemProject\\aemPractice\\core\\target\\classes
@@ -18,6 +18,10 @@ classPathUrl.13=C\:\\Users\\narprabh\\.m2\\repository\\org\\mockito\\mockito-all
 classPathUrl.14=C\:\\Users\\narprabh\\.m2\\repository\\junit-addons\\junit-addons\\1.4\\junit-addons-1.4.jar
 classPathUrl.15=C\:\\Users\\narprabh\\.m2\\repository\\xerces\\xercesImpl\\2.6.2\\xercesImpl-2.6.2.jar
 classPathUrl.16=C\:\\Users\\narprabh\\.m2\\repository\\xerces\\xmlParserAPIs\\2.6.2\\xmlParserAPIs-2.6.2.jar
+classPathUrl.17=C\:\\Users\\narprabh\\.m2\\repository\\org\\apache\\geronimo\\specs\\geronimo-atinject_1.0_spec\\1.0\\geronimo-atinject_1.0_spec-1.0.jar
+classPathUrl.18=C\:\\Users\\narprabh\\.m2\\repository\\org\\apache\\sling\\org.apache.sling.models.impl\\1.0.0\\org.apache.sling.models.impl-1.0.0.jar
+classPathUrl.19=C\:\\Users\\narprabh\\.m2\\repository\\commons-beanutils\\commons-beanutils\\1.8.3\\commons-beanutils-1.8.3.jar
+classPathUrl.20=C\:\\Users\\narprabh\\.m2\\repository\\commons-logging\\commons-logging\\1.1.1\\commons-logging-1.1.1.jar
 surefireClassPathUrl.0=C\:\\Users\\narprabh\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.18.1\\surefire-junit4-2.18.1.jar
 surefireClassPathUrl.1=C\:\\Users\\narprabh\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.18.1\\surefire-api-2.18.1.jar
 enableAssertions=true
